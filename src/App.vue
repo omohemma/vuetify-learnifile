@@ -12,7 +12,7 @@
         target="_blank"
       >
         <span class="mr-2">Latest Release</span>
-        <v-icon>fas fa-external-link-alt</v-icon>
+        <v-icon>mdi-open-in-new</v-icon>
       </v-btn>
     </v-app-bar>
 

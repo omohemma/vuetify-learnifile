@@ -5,9 +5,6 @@ Vue.use(Vuetify);
 
 export default new Vuetify({
   theme: {
-      options: {
-        customProperties: true,
-      },
     themes: {
       light: {
         primary: '#ee44aa',
@@ -21,6 +18,6 @@ export default new Vuetify({
     },
   },
   icons: {
-    iconfont: 'fa',
+    iconfont: 'mdi',
   },
 });
